@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-<a href="https://instagram.com/i4m2g00d4u">Instagram</a>
+<style>
+  a {
+    color: red;
+  }
+</style>
 
-<script>alert("test")</script>
+<a href="https://instagram.com/i4m2g00d4u">Instagram</a>
 
 <!--
 **qtNoe/qtNoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
