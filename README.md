@@ -10,4 +10,4 @@ a passionate programmer who loves coding in my free time.
 - Java
 - C#
 - Webdevelopment (`HTML`, `CSS`, `JavaScript`, `PHP`)
-- Datenbankentwicklung (`MariaDB`)
+- Database developer (`MariaDB`)
