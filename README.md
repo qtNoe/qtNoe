@@ -1,4 +1,4 @@
-# Hey there, I'm qtNoe! 👋
+# Hey there 👋
 a passionate programmer who loves coding in my free time.
 ## 🔗 Links
 ![discord](https://img.shields.io/badge/i4m2g00d4u-000?style=for-the-badge&logo=discord&logoColor=white) 
